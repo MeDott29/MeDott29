@@ -14,7 +14,6 @@ Photography
 
 📫 You can reach me through my GitHub profile.
 
-🚀 I am also currently working on launching a program (this.Chat) in colab that helps update my README with what I'm learning every day. Stay tuned for updates...
-
+🚀 I am also currently working on launching a program (this.Chat) 
 
 
