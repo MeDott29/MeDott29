@@ -1,5 +1,8 @@
-### Hi there 👋
-currently researching audio processing
+# Hi👈
+currently researching audio processing and data science
+![_5b4b1681-6d46-4cc4-a17f-176999c8da30](https://github.com/MeDott29/MeDott29/assets/13264408/dfc64781-0212-4d06-945a-d6fbe2a2f475)
+
+
 <!--
 **MeDott29/MeDott29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
