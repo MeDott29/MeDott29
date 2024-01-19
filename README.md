@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+currently researching audio processing
 <!--
 **MeDott29/MeDott29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
