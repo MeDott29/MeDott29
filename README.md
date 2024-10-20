@@ -1,6 +1,11 @@
-# Hi👈
-currently researching audio processing and data science
+# 🥭
+researching and developing the worlds first hermeneutic on chatbots
 
+__Bot timeline(WIP)__
+1970 - ELIZA
+2022- https://github.com/ClashLuke/gpt3-discord-bot
+2023 - https://ai-by-ai.com/
+2024 - [ditto](https://github.com/yoheinakajima/ditto), [babyagi-2o](https://github.com/yoheinakajima/babyagi-2o)
 <!--
 **MeDott29/MeDott29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
