@@ -1,5 +1,6 @@
 # 🥭
 researching and developing the worlds first hermeneutic on chatbots
+one of my favorite ideas I learned about history - we can begin to holistically understand the effects of an historical event 100 years after it happens.
 
 __Bot timeline(WIP):__  
 - 1970 - ELIZA  
